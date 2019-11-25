@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20191003-1328-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.14.5"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Mac OS X"
+	Hostname="Semih-MacBook-Air.local"
+	OSRelease="10.14.6"
+	OSVersion="18G95"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="58"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="1024"
+	TotalPhysicalMemory="4096"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="1800"
+	>
+	<Testing>
+		<StartDateTime>Oct 03 15:28 CEST</StartDateTime>
+		<StartTestTime>1570109300</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 03 15:28 CEST</EndDateTime>
+		<EndTestTime>1570109300</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
